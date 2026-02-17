@@ -61,7 +61,7 @@ Relación: Cliente(1) --> (N) Pedido
 
 ```bash
 docker run --name postgres-dev \
--e POSTGRES_PASSWORD=postgres \
+-e POSTGRES_PASSWORD=**** \
 -e POSTGRES_DB=empresa \
 -p 5432:5432 \
 -d postgres
@@ -72,11 +72,11 @@ docker run --name postgres-dev \
 mvn clean spring-boot:run
 
 # API REST
-GET /api/health
-POST /api/clientes
-GET /api/clientes
-POST /api/clientes/{clienteId}/pedidos
-GET /api/clientes/{clienteId}/pedidos
+- GET /api/health
+- POST /api/clientes
+- GET /api/clientes
+- POST /api/clientes/{clienteId}/pedidos
+- GET /api/clientes/{clienteId}/pedidos
 
 # Decisiones Técnicas
 
