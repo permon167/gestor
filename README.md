@@ -65,6 +65,8 @@ docker run --name postgres-dev \
 -e POSTGRES_DB=empresa \
 -p 5432:5432 \
 -d postgres
+```
+---
 
 # Ejecucion del proyecto
 mvn clean spring-boot:run
