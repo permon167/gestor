@@ -1,0 +1,10 @@
+/mnt/c/Users/Pablo/Desktop/gestor/src/main/java/com/pablo/backend/Main.java
+/mnt/c/Users/Pablo/Desktop/gestor/src/main/java/com/pablo/backend/controller/ClienteController.java
+/mnt/c/Users/Pablo/Desktop/gestor/src/main/java/com/pablo/backend/controller/HealthController.java
+/mnt/c/Users/Pablo/Desktop/gestor/src/main/java/com/pablo/backend/controller/PedidoController.java
+/mnt/c/Users/Pablo/Desktop/gestor/src/main/java/com/pablo/backend/dto/PedidoCreateRequest.java
+/mnt/c/Users/Pablo/Desktop/gestor/src/main/java/com/pablo/backend/dto/PedidoResponse.java
+/mnt/c/Users/Pablo/Desktop/gestor/src/main/java/com/pablo/backend/entity/Cliente.java
+/mnt/c/Users/Pablo/Desktop/gestor/src/main/java/com/pablo/backend/entity/Pedido.java
+/mnt/c/Users/Pablo/Desktop/gestor/src/main/java/com/pablo/backend/repository/ClienteRepository.java
+/mnt/c/Users/Pablo/Desktop/gestor/src/main/java/com/pablo/backend/repository/PedidoRepository.java

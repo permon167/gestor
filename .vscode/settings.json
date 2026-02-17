@@ -1,0 +1,16 @@
+{
+  "sqltools.connections": [
+    {
+      "ssh": "Disabled",
+      "previewLimit": 50,
+      "server": "172.28.243.230",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "database": "empresa",
+      "username": "postgres",
+      "name": "postgres-wsl"
+    }
+  ],
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "java.compile.nullAnalysis.mode": "automatic"
+}
