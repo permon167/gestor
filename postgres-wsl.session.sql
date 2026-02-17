@@ -1,4 +1,3 @@
-SELECT table_name
-FROM information_schema.tables
-WHERE table_schema = 'public'
-    AND table_name IN ('clientes', 'pedidos');
+SELECT p.id, p.cliente_id, p.total
+FROM pedidos p
+WHERE p.cliente_id = 1;

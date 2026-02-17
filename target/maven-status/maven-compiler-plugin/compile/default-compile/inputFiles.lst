@@ -8,3 +8,5 @@
 /mnt/c/Users/Pablo/Desktop/gestor/src/main/java/com/pablo/backend/entity/Pedido.java
 /mnt/c/Users/Pablo/Desktop/gestor/src/main/java/com/pablo/backend/repository/ClienteRepository.java
 /mnt/c/Users/Pablo/Desktop/gestor/src/main/java/com/pablo/backend/repository/PedidoRepository.java
+/mnt/c/Users/Pablo/Desktop/gestor/src/main/java/com/pablo/backend/service/ClienteService.java
+/mnt/c/Users/Pablo/Desktop/gestor/src/main/java/com/pablo/backend/service/PedidoService.java
